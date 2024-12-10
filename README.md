@@ -17,3 +17,10 @@ but you need to go beyond that.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+
+Runtime Analysis:
+    Time Complexity (Worst Case): 
+    O(n) because we are iterating through the series and performing constant time operations (ex: multiplications and additions) in each iteration.
+    Space Complexity (Worst Case): 
+    O(1) because we only use a fixed amount of space to store the current factorial and the sum approximation of e.
